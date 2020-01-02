@@ -2,6 +2,8 @@
 
 Learn how you can bind observable data to the Syncfusion Angular TreeGrid control. This example explains how to bind observables using the async pipe to subscribe to observable objects and get the latest emitted values. It also explains how to bind observable data while expand operations are performed in the TreeGrid.
 
+Watch the video now: https://www.syncfusion.com/tutorial-videos/angular/treegrid?title=binding-observable-data-to-angular-treegrid
+
 Documentation: https://ej2.syncfusion.com/angular/documentation/treegrid/observables/?no-cache=1#observables
 
 
